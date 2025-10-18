@@ -41,9 +41,3 @@ for i, amil in enumerate(amiller):
     plt.xlabel("İl", fontsize=12)
 plt.tight_layout()
 plt.show()
-
-
-
-plt.xlabel("İl", fontsize=12)
-plt.tight_layout()
-plt.show()
